@@ -1,80 +1,64 @@
-<img src="https://pin.it/1Z58pqh0H" width="100%" /><h1 align="center">
-  Hey, I'm Dezart 👋
-</h1><h3 align="center">
-  🖥️ Backend Developer | 🐍 Python | 🌙 Night Coding
-</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Building+APIs+and+Backend+Systems;Debugging+code+at+night+%F0%9F%8C%99" />
-</p>---
+<div align="center">
 
-🌃 About me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=8arch&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python&descAlignY=55&descAlign=50" width="100%"/>
 
-class Developer:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Dezart+%F0%9F%91%8B;Backend+Developer;Python+Enthusiast;%D0%9F%D0%B8%D1%88%D1%83+%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9+%D0%B8+%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%B4" alt="Typing SVG" />
+</a>
 
-    def __init__(self):
-        self.name = "Dezart"
-        self.role = "Backend Developer"
-        self.language = "Python"
-        self.environment = "Night coding room"
+<br/>
 
-    def say_hi(self):
-        print("Welcome to my GitHub 🚀")
+<img src="https://komarev.com/ghpvc/?username=8arch&label=Profile%20Views&color=6c63ff&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/8arch?label=Followers&style=flat&color=6c63ff" alt="followers"/>
 
-
-me = Developer()
-me.say_hi()
+</div>
 
 ---
 
-🧠 What I do
+### 🧑‍💻 Обо мне
 
-- 🐍 Develop backend applications with Python
-- ⚙️ Build APIs and server-side logic
-- 🗄️ Work with databases
-- 🔍 Learn system architecture
-- 🌙 Code mostly when the city sleeps
+- 👤 Ник: **8arch**
+- 🧠 Имя: **Dezart**
+- 💼 Направление: **Backend Development**
+- 🐍 Основной язык: **Python**
+- 🌱 Постоянно учусь новому и люблю писать чистый код
+- ⚡ Автоматизирую и оптимизирую всё, до чего дотягиваюсь
 
----
+<br/>
 
-🛠️ Tech Stack
+### 🛠️ Технологии
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,redis,docker,linux,git,github,vscode" />
-</p>---
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,postgres,mysql,redis,docker,git,linux,vscode,githubactions&theme=dark" />
+</div>
 
-📊 GitHub Stats
+<br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=8arch&show_icons=true&theme=tokyonight&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8arch&layout=compact&theme=tokyonight&hide_border=true" />
-</p>---
+### 📊 GitHub статистика
 
-🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/8arch/8arch/output/github-contribution-grid-snake-dark.svg" />
-</p>---
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=8arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8arch&layout=compact&theme=tokyonight&hide_border=true"/>
 
-🌌 Current mood
+</div>
 
-          🌙
-     ┌───────────┐
-     │  💻       │
-     │  ████     │
-     │  █  █     │
-     │  ████     │
-     │           │
-     │  coffee ☕ │
-     └───────────┘
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8arch&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
 
-      coding after midnight
+<br/>
 
----
+### 🐍 Активность (анимированная змейка контрибуций)
 
-📫 Contact
+<div align="center">
+  <img src="https://raw.githubusercontent.com/8arch/8arch/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
 
-GitHub: https://github.com/8arch
+<sub>Чтобы змейка отобразилась — подключи workflow <code>snake.yml</code> (файл прилагается отдельно) в репозитории <code>8arch/8arch</code>.</sub>
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
