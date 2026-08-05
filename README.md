@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/your-pixel-room.gif" width="100%" /><h1 align="center">
+<img src="https://pin.it/1Z58pqh0H" width="100%" /><h1 align="center">
   Hey, I'm Dezart 👋
 </h1><h3 align="center">
   🖥️ Backend Developer | 🐍 Python | 🌙 Night Coding
